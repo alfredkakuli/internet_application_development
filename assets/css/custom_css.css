@@ -1,4 +1,29 @@
-        .division_one input {
+       
+       .division_one input {
             border: 2px red solid;
         }
+  /* .logo{
+    width: 50px;
+    height: 50px;
+  } */
+
+  .box1 {
+    background-color: grey;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 2%;
+    opacity: 0.5;
+    display: flex;
+    justify-content: end;
+  }
+
   
+  .box1 ul li {
+    display: inline-block;
+  }
+
+    
+  .box1 ul li a img {
+    width: 15px;
+    margin-left: 5px;
+  }
